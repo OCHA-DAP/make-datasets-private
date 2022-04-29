@@ -1,6 +1,7 @@
 {
     "ckanurl": "https://data.humdata.org",
     "apikey": "INSERT KEY HERE",
+    "organization": "INSERT ORG CODE HERE",
     "user_agent": "INSERT USER AGENT HERE, IF ANY",
-    "organization": "INSERT ORG CODE HERE"
+    "delay": 1
 }
